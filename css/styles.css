@@ -1,7 +1,21 @@
-.left-wall {
-  float: left;
+#nav-top {
+  height: 80px;
+  background-color: orange;
 }
 
-ul {
-  float: right;
+#body-inner {
+  margin-left: 180px;
+}
+
+#tab-container {
+  margin-top: 40px;
+  margin-left: 180px;
+}
+
+#left-body {
+  height: 500px;
+}
+
+#right-body {
+  height: 500px;
 }
