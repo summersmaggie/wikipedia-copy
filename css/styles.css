@@ -1,7 +1,3 @@
-#nav-top {
-  height: 80px;
-  background-color: orange;
-}
 
 #body-inner {
   margin-left: 180px;
@@ -10,12 +6,23 @@
 #tab-container {
   margin-top: 40px;
   margin-left: 180px;
+  background-color: lightgray;
 }
 
 #left-body {
-  height: 500px;
+  height: 1000px;
 }
 
 #right-body {
-  height: 500px;
+  height: 1000px;
+}
+#sidebar {
+  width: 180px;
+  height: 1250px;
+  background-color: teal;
+  margin-top: -80px;
+}
+
+#featured-picture {
+  height: 250px;
 }
